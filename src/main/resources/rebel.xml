@@ -6,10 +6,10 @@
 -->
 <application generated-by="intellij" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_3.xsd">
 
-	<id>easypan</id>
+	<id>cloudshelf</id>
 
 	<classpath>
-		<dir name="E:/workspace-java/easypan/target/classes">
+		<dir name="D:/Work/code/java/CloudShelf/CloudShelf-java/target/classes">
 		</dir>
 	</classpath>
 
