@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" alt="CloudShelf Logo" width="120" />
+  <img src="docs/logo.png" alt="CloudShelf Logo" width="120" />
 </p>
 
 <h1 align="center">CloudShelf</h1>
@@ -208,47 +208,47 @@ npm run dev
 
 登录页
 
-![](\docs\login.png)
+![](docs/login.png)
 
 注册页
 
-![](\docs\register.png)
+![](docs/register.png)
 
 ### 文件管理
 
 主页
 
-![](\docs\home-page.png)
+![](docs/home-page.png)
 
 上传文件
 
-![](\docs\upload.png)
+![](docs/upload.png)
 
 分享文件
 
-![](\docs\share.png)
+![](docs/share.png)
 
 ### 在线预览
 
 文件预览
 
-![](\docs\file-preview.png)
+![](docs/file-preview.png)
 
 ### 其他功能
 
 回收站
 
-![](\docs\huishouzhan.png)
+![](docs/huishouzhan.png)
 
 我的分享
 
-![](\docs\myshare.png)
+![](docs/myshare.png)
 
 ### 管理员后台
 
 文件管理、用户管理、系统设置
 
-![](\docs\admin.png)
+![](docs/admin.png)
 
 ---
 
@@ -271,7 +271,7 @@ http://localhost:7090/api/doc.html
 | 公开分享 | `/api/showShare/` | 匿名访问分享内容 |
 | 管理员 | `/api/admin/` | 系统设置、用户管理、全局文件管理 |
 
-![](\docs\api.png)
+![](docs/api.png)
 
 ---
 
